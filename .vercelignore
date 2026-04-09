@@ -1,0 +1,10 @@
+# Ignore Python source/runtime and build artifacts for Vercel static deployment
+*.py
+requirements.txt
+build/
+dist/
+*.bat
+__pycache__/
+NewsCommentAnalyzer.spec
+ministries_2026.json
+*.exe
